@@ -1,0 +1,20 @@
+[
+  {
+    "name":"com.amazonaws.example.cmr.domain.Unicorn",
+    "allDeclaredFields":true,
+    "queryAllDeclaredMethods":true,
+    "queryAllDeclaredConstructors":true,
+    "methods":[
+      {"name":"<init>","parameterTypes":[] },
+      {"name":"getAge","parameterTypes":[] },
+      {"name":"getId","parameterTypes":[] },
+      {"name":"getName","parameterTypes":[] },
+      {"name":"getSize","parameterTypes":[] },
+      {"name":"getType","parameterTypes":[] },
+      {"name":"setAge","parameterTypes":["java.lang.String"] },
+      {"name":"setName","parameterTypes":["java.lang.String"] },
+      {"name":"setSize","parameterTypes":["java.lang.String"] },
+      {"name":"setType","parameterTypes":["java.lang.String"] }
+    ]
+  }
+]
